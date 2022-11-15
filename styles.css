@@ -1,0 +1,82 @@
+body {
+  background-color: rgb(189, 182, 172);
+}
+
+header {
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(14, 13, 15);
+}
+
+input {
+  margin: 10px;
+  width: 235px;
+  height: 30px;
+  border: 2px solid black;
+  border-radius: 15%;
+}
+
+button {
+  border: 1px solid black;
+  background-color: bisque;
+  border-radius: 50%;
+  height: 50px;
+  width: 100px;
+  font-weight: 600;
+  font-size: large;
+  margin: 1%;
+}
+
+button:hover {
+  background-color: blueviolet;
+}
+
+.operation_1,
+.operation_2,
+.operation_3,
+.operation_4 {
+  color: red;
+  width: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.active,
+.btn:hover {
+  background-color: #666;
+  color: white;
+}
+/* .operation_2 {
+  color: green;
+  width: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  padding: 10px;
+  border-bottom: 2px solid black;
+} */
+
+/* .operation_3 {
+  color: rgb(52, 210, 20);
+  width: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  padding: 10px;
+  border-bottom: 2px solid black;
+}
+
+.operation_4 {
+  color: rgb(40, 40, 203);
+  font-weight: bold;
+  font-size: 20px;
+  height: 20px;
+  margin: 10px;
+  padding: 10px;
+  border-bottom: 2px solid black;
+} */
